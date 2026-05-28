@@ -1,0 +1,6 @@
+[project]
+
+name = "c23-logger"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = []
